@@ -7,3 +7,5 @@ Automapper - Automapper
 Json - Newtonsoft.Json
 
 CSS - tailbits, tailblocks, flowbite, UIverse
+
+c# testing - FluentAssertions, Microsoft.Extensions.Logging.Abstractions, Microsoft.NET.Test.Sdk, moq, xunit, xunit.runner.visualstudio
