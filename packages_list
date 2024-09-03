@@ -1,7 +1,9 @@
 Normal DB connection - MySqlConnector & .xml CopyToOutputDirectory to always
 
-Dapper - 
+Dapper - dapper
 
 Automapper - Automapper
 
 Json - Newtonsoft.Json
+
+CSS - tailbits, tailblocks, flowbite, UIverse
